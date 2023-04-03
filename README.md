@@ -1,3 +1,5 @@
+# Sobre o projeto
+
 # AWG - Gerador de ondas arbitrárias
 O awg é uma importante ferramenta de testes em circuitos pois é capaz de gerar sinais de tensão totalmente configurados pelo usuário. Assim, o objetivo deste trabalho foi
 o desenvolvimento de um gerador de ondas arbitrárias de código aberto e controlado digitalmente por um aplicativo móvel, oferecendo uma alternativa aos geradores comerciais,
