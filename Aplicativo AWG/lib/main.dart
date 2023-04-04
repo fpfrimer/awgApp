@@ -27,7 +27,7 @@ import 'triangule_page.dart'; // Página para configuração de onda triangular
 import 'bluetooth_page.dart'; // Página para gerenciamento de conexões Bluetooth
 import 'point_page.dart'; // Página para ajuste de pontos específicos da onda
 
-
+// Função principal que inicia a execução do aplicativo e configura o widget Home como a página inicial do GetMaterialApp
 void main() => runApp(GetMaterialApp(home: Home()));
 
 class Controller extends GetxController {
